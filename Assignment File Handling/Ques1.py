@@ -9,4 +9,4 @@ def display(filename):
         print(file.read())
 file = input("Enter the file name: ")
 append(file)
-read(file)
+display(file)
