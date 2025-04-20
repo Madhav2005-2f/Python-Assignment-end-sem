@@ -1,4 +1,5 @@
 import csv
+#Uncomment the lines below when running the program for the first time 
 # f1 = open("books.csv","w",newline='')
 # b = csv.writer(f1)
 
