@@ -16,8 +16,6 @@ import csv
 # c.writerow(["Member ID","Name","Book Accession No.","Book Title","Issue Date","Return Date","Dues to be paid"])
 # f3.close()
 
-import csv
-
 def bookinfo():
     query = input("Enter the book accession number or title: ")
     found = False
