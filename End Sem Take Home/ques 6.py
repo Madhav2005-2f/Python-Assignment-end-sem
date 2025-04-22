@@ -92,7 +92,7 @@ def total_books():
     total = 0
     for row in rdr:
         total += int(row[6])
-        print("The total number of books in the library is:",total)
+    print("The total number of books in the library is:",total)
     f.close() 
 def member():
     name = input("Enter the member name or ID: ")

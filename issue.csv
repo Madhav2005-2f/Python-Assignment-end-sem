@@ -1,5 +1,4 @@
 Member ID,Name,Book Accession ID,Book Title,Issue Date,Return Date,Dues to be paid
-M001,Madhav Varshney,B001,Electrical,2024-01-01,2024-01-15,9
 M002,Ramesh Kumar,B002,Mechanical,2024-01-01,2024-01-15,12
 M003,Suresh Kumar,B003,Civil,2024-01-01,2024-01-15,15
 M004,John Doe,B004,Computer Science,2024-01-01,2024-01-15,18
@@ -12,4 +11,4 @@ M010,Emma Thompson,B010,History,2024-01-01,2024-01-15,36
 M011,Frank Garcia,B011,Geography,2024-01-01,2024-01-15,39
 M012,Grace Martinez,B012,Literature,2024-01-01,2024-01-15,42
 M013,Henry Anderson,B013,Philosophy,2024-01-01,2024-01-15,45
-M014,Isabella Taylor,B014,Psychology,2024-01-01,2024-01-15,48
+M014,Isabella Taylor,B014,Psychology,2024-01-01,2024-01-15,48M002,Ankit Kumar,B001,Electrical,22-04-2025,29-04-2025,10.5
